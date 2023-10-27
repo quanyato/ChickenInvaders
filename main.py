@@ -1,7 +1,7 @@
 import pygame, sys
-import director
-import start_scene
-import level
+import engine.director as director
+import scene.start_scene as start_scene
+import scene.level as level
 
 pygame.init()
 clock = pygame.time.Clock()
