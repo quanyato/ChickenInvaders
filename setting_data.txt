@@ -1,0 +1,1 @@
+{"window_width": 720, "window_height": 480, "FPS_target": 60, "Mute_music": false, "Mute_sfx": false, "difficult": {"easy": true, "normal": false, "hard": false}}
